@@ -11,3 +11,4 @@ script:
   - npm run lint
   # test api methods
   - npm run test:api
+  - echo "hey"
